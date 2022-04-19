@@ -2,14 +2,14 @@
 Project Title: <b>Global Malnutrition and COVID Analysis (under 2022-winter-project repository)</b>
 Project date: January 2022
 Project language: Python
-Project breif: a group project analysing the historic measurements of young children's malnutrition and comparing them to the global death rates of COVID-19
+Project brief: a group project analysing the historic measurements of young children's malnutrition and comparing them to the global death rates of COVID-19
 Project skills shown: data cleaning, data merge, pandas, geopandas, seaborn, PCA, linear regression, teamwork
 
 
 Project Title: <b>Price of lumber 1979-2021</b>
 Project date: December 2021
 Project language: Python
-Project breif: viewing the surge in lumber prices in 2021 and compare it to gold and silver prices for scale, test predicting the price surge with an ARIMA model
+Project brief: viewing the surge in lumber prices in 2021 and compare it to gold and silver prices for scale, test predicting the price surge with an ARIMA model
 Project skills shown: data cleaning, pandas, ARIMA modeling
 
 
